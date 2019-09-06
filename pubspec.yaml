@@ -28,6 +28,9 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   test:
+  screenshots:
+  intl_translation: ^0.17.2
+
   flutter_driver:
     sdk: flutter
 
